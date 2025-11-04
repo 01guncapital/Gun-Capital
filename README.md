@@ -187,4 +187,4 @@ const CONFIG = {
   
   // Telegram configuration
   TELEGRAM_GROUP_ID: process.env.TELEGRAM_GROUP_ID || '-1003290216282'
-};
+};"# Gun-Capital" 
